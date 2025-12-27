@@ -111,11 +111,9 @@
 <!-- Gradient colored alternative lines for typing animation -->
 <p align="center">
   <!-- Alternative 1: Purple gradient -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Just+here+for+the+vibes;Code+when+bored;Sleep+is+optional;Caffeine+is+fuel" alt="Typing SVG">
-  <br>
-  <!-- Alternative 2: Blue gradient -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&height=50&lines=Debugging+my+life;404+Sleep+not+found;git+commit+-m+'Existential+crisis';sudo+make+me+a+sandwich" alt="Typing SVG">
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Just+here+for+the+vibes;Code+when+bored;Sleep+is+optional;rm+-rf+/responsibilities;Caffeine+is+fuel;Debugging+my+life;404+Sleep+not+found;git+commit+-m+'Existential+crisis';sudo+make+me+a+sandwich" alt="Typing SVG">
+ 
+
 
 <!-- Final footer -->
 <p align="center">

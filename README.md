@@ -12,7 +12,7 @@
 </p>
 
 <!-- Right-side GIF -->
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ2azJidXg1MTF5Z2h6djlxMmd6N2U1MzNpa2IwdjN4YWlrZjJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlQKpiOtjK6hqhJqAl/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ2azJidXg1MTF5Z2h6djlxMmd6N2U1MzNpa2IwdjN4YWlrZjJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlQKpiOtjK6hqhJqAl/giphy.gif">
 
 <!-- Profile Views & Trophies -->
 <p align="left">
@@ -107,6 +107,7 @@
   <!-- Alternative 3: Repo stats -->
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pbvimukthi&theme=monokai" alt="pbvimukthi">
 </div>
+<br>
 
 <!-- Gradient colored alternative lines for typing animation -->
 <p align="center">
@@ -117,5 +118,5 @@
 
 <!-- Final footer -->
 <p align="center">
-  <i>Thanks for stopping by! Have a great day! 😊</i>
+  <i>Thanks for stopping by! Have a great day! </i>
 </p>

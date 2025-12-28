@@ -11,6 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=I+make+stuff+sometimes;Cyber+stuff+I+guess;Mostly+just+vibing+:);Wait...+are+you+still+reading?;This+is+getting+awkward!;Why+are+you+reading+this?;Seriously+stop+looking+:(;I+probably+should+be+coding;But+here+we+are;Okay...+this+is+the+end;You+can+scroll+away+now;Shoooooo!!+Vamoose!!!" alt="Typing SVG">
 </p>
 
+
 <!-- Right-side GIF -->
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZ2azJidXg1MTF5Z2h6djlxMmd6N2U1MzNpa2IwdjN4YWlrZjJ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JlQKpiOtjK6hqhJqAl/giphy.gif">
 

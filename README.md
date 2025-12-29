@@ -34,7 +34,7 @@
 - 🔭 I'm currently working on **Nothing :)**
 - 🌱 I'm currently learning about **CyberSecurity**
 - 💬 Ask me about : **(Don't!)**
-- 📫 How to reach me **personal.bvp616@gmail.com**
+- 📫 How to reach me : **personal.bvp616@gmail.com**
 - ⚡ Fun fact : **I laugh at my own jokes. No one else does.**
 
 <!-- Connect Section -->

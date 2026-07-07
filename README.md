@@ -92,6 +92,19 @@
 
 ---
 
+<!-- Contribution Snake -->
+<h3 align="center">🐍 Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pbvimukthi/pbvimukthi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pbvimukthi/pbvimukthi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pbvimukthi/pbvimukthi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 <!-- Funny Footer Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Still+scrolling%3F;There+is+no+secret+here.;Go+touch+grass.;Or+push+to+main+without+testing.;I+won't+judge...+much." />

@@ -16,7 +16,7 @@
 <!-- Main Typing Animation (Electric Purple) -->
 <p align="center">
   <a href="https://github.com/pbvimukthi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=BB9AF7&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=I+make+stuff+sometimes;Cyber+stuff+I+guess;Mostly+just+vibing+:);Wait...+are+you+still+reading%3F;This+is+getting+awkward!;Why+are+you+reading+this%3F;Seriously+stop+looking+:(;I+probably+should+be+coding;But+here+we+are;Okay...+this+is+the+end;You+can+scroll+away+now;Shoooooo!!+Vamoose!!!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=BB9AF7&background=0D111700&center=true&vCenter=true&width=700&height=50&lines=I+make+stuff+sometimes;Cyber+stuff+I+guess;Mostly+just+vibing+:);Wait...+are+you+still+reading%3F;This+is+getting+awkward!;Why+are+you+reading+this%3F;Seriously+stop+looking+:(;I+probably+should+be+coding;But+here+we+are;Okay...+this+is+the+end;You+can+scroll+away+now;Stop+wasting+time+here!+Scroll+Down." alt="Typing SVG" />
   </a>
 </p>
 
@@ -132,7 +132,7 @@
 <!-- ============================================================ -->
 <!-- Footer Typing Animation (Neon Cyan/Blue) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Still+scrolling%3F;There+is+no+secret+here.;Go+touch+grass.;Or+push+to+main+without+testing.;I+won't+judge...+much." alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Still+scrolling%3F;There+is+no+secret+here.;Go+touch+grass.;Or+push+to+main+without+testing.;Btw,;Just+ignore+the+GIF+below+:);See+ya!+Have+a+nice+day." alt="Footer Typing SVG" />
 </p>
 
 ---
